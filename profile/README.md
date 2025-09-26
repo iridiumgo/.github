@@ -4,7 +4,6 @@ The main organization for Iridium
 * [Iridium](https://github.com/iridiumgo/iridium)
 * [Iridium-Icons](https://github.com/iridiumgo/iridium-icons)
 * [Iridium-Specs](https://github.com/iridiumgo/iridium-specs)
-* [Iridium-Site](https://github.com/iridiumgo/iridium-site)
 * Iridium-Demo (coming soon...)
 
 ### Links
