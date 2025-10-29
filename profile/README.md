@@ -8,7 +8,7 @@ The main organization for Iridium
 * [Iridium-Demo](https://github.com/iridiumgo/iridium-demo)
 
 ### First Party Plugins
-* [Iridium Live Charts]()
+* [Iridium Live Charts](https://github.com/iridiumgo/iridium-live-charts)
 * [Iridium Widget Gallery]()
 
 ### Links
