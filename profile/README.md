@@ -13,7 +13,7 @@ The main organization for Iridium
 ## Links
 * [iridiumgo.dev](https://iridiumgo.dev/)
 * [docs.iridiumgo.dev](https://docs.iridiumgo.dev/)
-* [demo.iridiumgo.dev](httos://demo.iridiumgo.dev/)
+* [demo.iridiumgo.dev](https://demo.iridiumgo.dev/)
 
 ### Other
 * [Creator's blog](https://sosick.ca)
