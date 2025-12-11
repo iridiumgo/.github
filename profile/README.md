@@ -17,4 +17,4 @@ The main organization for Iridium
 
 ### Other
 * [Creator's blog](https://sosick.ca)
-* [Iridium_forge](https://github.com/iridiumgo/iridium-forge)
+* [Iridium_forge](https://github.com/iridiumgo/iridium_forge)
