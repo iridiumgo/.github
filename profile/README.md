@@ -5,6 +5,7 @@ The main organization for Iridium
 * [Iridium](https://github.com/iridiumgo/iridium)
 * [Iridium-Specs](https://github.com/iridiumgo/iridium-specs)
 * [Iridium-Demo](https://github.com/iridiumgo/iridium-demo)
+* [Iridium-Icons](https://github.com/iridiumgo/iridium-icons)
 
 ### First Party Plugins
 * [Iridium Live Charts](https://github.com/iridiumgo/iridium-live-charts)
